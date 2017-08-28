@@ -7,7 +7,7 @@
 
 3. Implemented the user-based collaborative filtering algorithm based on euclidian similarity.
 
-## Things to be proved
+## Things to be improve
 1. Use cross validation to train algorithms
 2. Use ensembled algorithms
 
